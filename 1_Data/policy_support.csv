@@ -1,0 +1,41 @@
+"policy","ideology","educ_category","num_supportive","total_respondents","percentage"
+"CO2_pollutant","Very liberal","Less than high school",120,160,75
+"CO2_pollutant","Very liberal","High school",324,374,87
+"CO2_pollutant","Very liberal","Some college",508,558,91
+"CO2_pollutant","Very liberal","Bachelor's degree or higher",1025,1072,96
+"CO2_pollutant","Somewhat liberal","Less than high school",213,266,80
+"CO2_pollutant","Somewhat liberal","High school",934,1097,85
+"CO2_pollutant","Somewhat liberal","Some college",1240,1383,90
+"CO2_pollutant","Somewhat liberal","Bachelor's degree or higher",2282,2464,93
+"CO2_pollutant","Moderate","Less than high school",748,1017,74
+"CO2_pollutant","Moderate","High school",2875,3674,78
+"CO2_pollutant","Moderate","Some college",2709,3409,79
+"CO2_pollutant","Moderate","Bachelor's degree or higher",2828,3503,81
+"CO2_pollutant","Somewhat conservative","Less than high school",242,364,66
+"CO2_pollutant","Somewhat conservative","High school",1093,1670,65
+"CO2_pollutant","Somewhat conservative","Some college",1251,2051,61
+"CO2_pollutant","Somewhat conservative","Bachelor's degree or higher",1300,2302,56
+"CO2_pollutant","Very conservative","Less than high school",119,236,50
+"CO2_pollutant","Very conservative","High school",464,976,48
+"CO2_pollutant","Very conservative","Some college",421,999,42
+"CO2_pollutant","Very conservative","Bachelor's degree or higher",345,995,35
+"RES","Very liberal","Less than high school",71,116,61
+"RES","Very liberal","High school",201,255,79
+"RES","Very liberal","Some college",324,375,86
+"RES","Very liberal","Bachelor's degree or higher",657,719,91
+"RES","Somewhat liberal","Less than high school",141,205,69
+"RES","Somewhat liberal","High school",590,830,71
+"RES","Somewhat liberal","Some college",842,1049,80
+"RES","Somewhat liberal","Bachelor's degree or higher",1486,1714,87
+"RES","Moderate","Less than high school",466,751,62
+"RES","Moderate","High school",1756,2708,65
+"RES","Moderate","Some college",1664,2477,67
+"RES","Moderate","Bachelor's degree or higher",1712,2389,72
+"RES","Somewhat conservative","Less than high school",152,280,54
+"RES","Somewhat conservative","High school",603,1235,49
+"RES","Somewhat conservative","Some college",731,1509,48
+"RES","Somewhat conservative","Bachelor's degree or higher",769,1685,46
+"RES","Very conservative","Less than high school",77,178,43
+"RES","Very conservative","High school",274,701,39
+"RES","Very conservative","Some college",226,703,32
+"RES","Very conservative","Bachelor's degree or higher",188,684,27
